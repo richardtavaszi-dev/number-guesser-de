@@ -7,7 +7,7 @@ Nach jedem Versuch gibt die App sofortiges Feedback und zeigt am Ende die gesamt
 https://ricsinumberapp.netlify.app/
 
 ## 🖼️ Screenshot
-<img width="741" height="710" src="https://github.com/user-attachments/assets/be00adf-f3a0-4001-a083-2c161b5c7be0" alt="Spielansicht">
+![Spieloberfläche](https://github.com/user-attachments/assets/be00adf-f3a0-4001-a083-2c161b5c7be0)
 
 ## 🔍 Funktionen
 - Zufällige Zahl zwischen 1 und 50  
