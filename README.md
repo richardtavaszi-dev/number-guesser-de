@@ -4,7 +4,7 @@ Eine interaktive Angular-Anwendung, bei der der Benutzer eine zufällige Zahl er
 Nach jedem Versuch gibt die App sofortiges Feedback und zeigt am Ende die gesamte Tipp-Historie an.
 
 ## 🔗 Live Demo
-https://ricsinumberapp.netlify.app/
+https://richardngnumberguesser.netlify.app/
 
 ## 🖼️ Screenshot
 ![Spieloberfläche](https://raw.githubusercontent.com/richardtavaszi-dev/number-guesser-de/main/Number_guesser_app.jpg)
